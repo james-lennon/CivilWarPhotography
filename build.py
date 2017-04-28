@@ -1,13 +1,29 @@
+#! env python
+
 import markdown2
 import os
 
 METADATA = ["title", "category", "content"]
 
+def get_pagename(title):
+	return title.lower().replace(" ","_")[:20]
+
+
+### Generating HTML
+
 def gen_homepage(data_list):
 	pass
 
 def gen_page(data):
-	pass
+	
+	# Generate HTML
+	html = markdown2.markdown(data["content"])
+	pagename = get_pagename(data['title'])
+	with open("./gen/{}.html".format(pagename), "w") as outfile:
+		outfile.write(html)
+
+
+### Loading from data files
 
 def inflate(path):
 
@@ -22,16 +38,12 @@ def inflate(path):
 		return {}
 
 	# Construct metadata dict
-	data = {k : v for k, v in zip(METADATA, parts)}
-
-	# Generate HTML
-	html = markdown2.markdown(data["content"])
-	pagename = data['title'].lower().replace(" ","_")[:20]
-	with open("./gen/{}.html".format(pagename), "w") as outfile:
-		outfile.write(html)
-		print html
+	data = {k : v.strip() for k, v in zip(METADATA, parts)}
 
 	return data
+
+
+### Building website B)
 
 def build(directory):
 
@@ -42,8 +54,16 @@ def build(directory):
 
 	results = map(inflate, paths)
 
+	# generate home page
+	gen_homepage(results)
+
+	# generate pages
+	map(gen_page, results)
+
 	print results
 
 
 if __name__ == '__main__':
 	build("contents")
+
+
