@@ -3,23 +3,33 @@
 import markdown2
 import os
 
+GEN_URL  = "./gen"
 METADATA = ["title", "category", "content"]
 
 def get_pagename(title):
-	return title.lower().replace(" ","_")[:20]
+	return title.lower().replace(" ","_")[:20]+".html"
 
 
 ### Generating HTML
 
 def gen_homepage(data_list):
-	pass
+
+	def link(data):
+		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
+	
+	links = "\n".join(map(link, data_list))
+	html  = markdown2.markdown(links)
+
+	# write to file
+	with open("{}/index.html".format(GEN_URL), "w") as outfile:
+		outfile.write(html)
 
 def gen_page(data):
 	
 	# Generate HTML
 	html = markdown2.markdown(data["content"])
 	pagename = get_pagename(data['title'])
-	with open("./gen/{}.html".format(pagename), "w") as outfile:
+	with open("{}/{}".format(GEN_URL, pagename), "w") as outfile:
 		outfile.write(html)
 
 
