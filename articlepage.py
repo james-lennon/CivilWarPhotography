@@ -1,7 +1,7 @@
 import markdown2
 from util import *
 
-def header(data):
+def header(data=None, title=None):
 	return """
 <html>
 <head>
@@ -11,26 +11,41 @@ def header(data):
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <!-- Site Properities -->
-  <title>Feed Example - Semantic</title>
+  <title>{}</title>
 
   <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" type="text/css" href="../dist/semantic.css">
+  <link rel="stylesheet" type="text/css" href="../semantic/dist/semantic.css">
 
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.js"></script>
-  <script src="../dist/semantic.js"></script>
+  <script src="../semantic/dist/semantic.js"></script>
 
   <link rel="stylesheet" type="text/css" href="feed.css">
   <script src="feed.js"></script>
 </head>
 <body>
+<div class='ui container'>
+""".format(title if title else data['title'])
+
+def footer(data=None):
+	return """
+</div>
+</body>
+</html>
 """
 
-def footer(data):
-	return """
-<\\body>
-<\html>
-"""
+
+def gen_homepage(data_list):
+
+	def link(data):
+		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
+
+	links = "\n".join(map(link, data_list))
+	html  = header(title="Home") + markdown2.markdown(links) +  footer()
+
+	# write to file
+	with open("{}/index.html".format(GEN_URL), "w") as outfile:
+		outfile.write(html)
 
 
 def gen_page(data):
