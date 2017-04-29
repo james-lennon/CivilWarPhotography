@@ -10,9 +10,12 @@ In his speech *Pictures and Progress*, Frederick Douglass praises the invention 
 With the emergence of the Civil War, Douglass saw the opportunity for the emergence of a new era of freedom. According to Maurice Wallace, he believed that “it was photography that was to be looked to for an “appropriate representation” of the dynamic new period ahead.
 
 ![Subtitle][douglass1]
+![Subtitle][douglass2]
+![Subtitle][douglass3]
 
 [douglass1]:../img/img5.png
-
+[douglass2]:../img/img6.png
+[douglass3]:../img/img7.png
 
 ### Sources
 - Wallace, Maurice. *Pictures and Progress*. Duke University Press Books.
