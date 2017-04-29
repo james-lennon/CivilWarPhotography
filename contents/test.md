@@ -1,5 +1,5 @@
-@Test
-@Hello
+@Frederick Douglass
+@Pictures and Progress
 
 @
 
