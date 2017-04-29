@@ -1,0 +1,29 @@
+.body {
+	text-align: center;
+}
+
+.text.container {
+	width: 1127px;
+	margin-left: auto;
+	margin-right: auto;
+	/*text-align: left;*/
+}
+
+h1 {
+	font-family: Georgia;
+	font-size: 2.5em;
+}
+
+p {
+	font-size: 16px;
+	font-family: Georgia;
+	color: #444;
+	line-height: 1.5em;
+}
+
+blockquote{
+	color:#666666;
+	/*margin:0;*/
+	padding-left: 3em;
+	border-left: 0.5em #EEE solid;
+}
