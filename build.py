@@ -54,6 +54,10 @@ def inflate(path):
 
 def build(directory):
 
+	# Create 'gen' directory
+	if not os.path.exists(GEN_URL):
+		os.makedirs(GEN_URL)
+
 	# Load contents from directory
 	paths = os.listdir(directory)
 	paths = filter(lambda f: f.endswith(".md"), paths)
