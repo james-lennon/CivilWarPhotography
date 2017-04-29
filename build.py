@@ -33,7 +33,8 @@ def inflate(path):
 		return {}
 
 	# Construct metadata dict
-	data = {k : v.strip() for k, v in zip(METADATA, parts)}
+	data = {k : v.strip().decode("utf-8").encode("ascii", "ignore")
+		for k, v in zip(METADATA, parts)}
 
 	return data
 
