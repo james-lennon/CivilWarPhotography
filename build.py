@@ -2,13 +2,10 @@
 
 import markdown2
 import os
+import articlepage
+from util import *
 
-GEN_URL  = "./gen"
 METADATA = ["title", "category", "content"]
-
-def get_pagename(title):
-	return title.lower().replace(" ","_")[:20]+".html"
-
 
 ### Generating HTML
 
@@ -16,7 +13,7 @@ def gen_homepage(data_list):
 
 	def link(data):
 		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
-	
+
 	links = "\n".join(map(link, data_list))
 	html  = markdown2.markdown(links)
 
@@ -68,7 +65,7 @@ def build(directory):
 	gen_homepage(results)
 
 	# generate pages
-	map(gen_page, results)
+	map(articlepage.gen_page, results)
 
 	print results
 
