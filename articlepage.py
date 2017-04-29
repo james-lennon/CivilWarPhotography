@@ -20,11 +20,11 @@ def header(data=None, title=None):
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.js"></script>
   <script src="../semantic/dist/semantic.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="feed.css">
-  <script src="feed.js"></script>
+  <link rel="stylesheet" type="text/css" href="../res/style.css">
+  <script src="../res/script.js"></script>
 </head>
 <body>
-<div class='ui container'>
+<div class='ui text container'>
 """.format(title if title else data['title'])
 
 def footer(data=None):
