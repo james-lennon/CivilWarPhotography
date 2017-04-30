@@ -36,7 +36,7 @@ def footer():
 
 def article_link(data):
   return """
-<div class="ui card project-card" project-id="<?= $project->id ?>">
+<div class="ui card project-card" href="{}">
   <div class="image">
     <img src="{}">
   </div>
@@ -47,7 +47,7 @@ def article_link(data):
     </div>
   </div>
 </div>
-""".format(data['image'], data['title'], data['category'])
+""".format(get_pagename(data['title']), data['image'], data['title'], data['category'])
 
 def grid(links):
 	return """<div class="ui container">
