@@ -14,21 +14,27 @@ def header(data=None, title=None):
   <title>{}</title>
 
   <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" type="text/css" href="../semantic/dist/semantic.css">
+  <link rel="stylesheet" type="text/css" href="../semantic/dist/semantic.min.css">
 
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.js"></script>
-  <script src="../semantic/dist/semantic.js"></script>
+  <script src="../semantic/dist/semantic.min.js"></script>
 
   <link rel="stylesheet" type="text/css" href="../res/style.css">
   <script src="../res/script.js"></script>
 </head>
 <body>
-<div class='ui text container'>
+<div class="ui text container">
+<div class='ui center aligned grid'>
+<div class='row'>
+<div class='left aligned column'>
 """.format(title if title else data['title'])
 
 def footer(data=None):
 	return """
+</div>
+</div>
+</div>
 </div>
 </body>
 </html>

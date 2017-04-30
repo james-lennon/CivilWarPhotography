@@ -2,7 +2,9 @@
 @
 
 @
-# Sojourner Truth: Achieving a Public Image Through Photography
+# Sojourner Truth: Public Image Through Photography
+
+***
 
 Sojourner Truth was an abolitionist who advocated for woman's rights, universal suffrage, and the rights of African-Americans.  She was a powerful and moving speaker known for her passionate speeches to reform the politics of the day.  ("The 'Green-Backs of Civilization'", 117).  She attempted to achieve a large presence in the public eye through the new technology of photography.  Truth used photographs for self-representation, tring to “claim an authorized voice and an audience for her work” (Wallace 10).  
 
