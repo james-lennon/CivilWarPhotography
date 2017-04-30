@@ -1,9 +1,12 @@
-@Frederick Douglass
-@Pictures and Progress
+@Frederick Douglass' Portraits
+@../img/6.png
+@Social Change Through Photographic Influence
 
 @
 
 # Frederick Douglass' Portraits
+
+***
 
 In his speech *Pictures and Progress*, Frederick Douglass praises the invention of the Daguerreotype image. Douglass mentions its ability to show incredible detail: "It strikes human nature on the weakest of all its many weak sides." The ability of the Daguerreotype to reveal such immense detail forces one to focus more upon their outward image. For, Douglass notices that the photograph allows one to see oneself from an outside perspective. In addition, Douglass says that “Men of all conditions may see themselves as others see them." The Daguerreotype allows for the visual representation of the forgotten members of society who were often left out of artistic images of the past. Photographs allow people to “see themselves as others see them” letting people assess their outward image and improve themselves not only personally but in the eyes of the public. Douglass saw photography as the gateway with which one could spark social change by changing one's public image.
 

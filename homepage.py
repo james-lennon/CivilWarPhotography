@@ -34,23 +34,8 @@ def footer():
 </html>
 """
 
-def gen_homepage(data_list):
-
-	def link(data):
-		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
-
-	links = "\n".join(map(link, data_list))
-	html  = header() + markdown2.markdown(links) +  footer()
-
-	# write to file
-	with open("{}/index.html".format(GEN_URL), "w") as outfile:
-		outfile.write(html)
-
-
-
-# article HTML
-
-"""
+def article_link(data):
+  return """
 <div class="ui card project-card" project-id="<?= $project->id ?>">
   <div class="image">
     <img src="{}">
@@ -62,8 +47,21 @@ def gen_homepage(data_list):
     </div>
   </div>
 </div>
-"""
+""".format(data['image'], data['title'], data['category'])
 
+# background: http://civilwarsaga.com/wp-content/uploads/2011/08/Civil-War-Photographers-2.jpg
+
+def gen_homepage(data_list):
+
+	def link(data):
+		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
+
+	links = "\n".join(map(article_link, data_list))
+	html  = header() + markdown2.markdown(links) +  footer()
+
+	# write to file
+	with open("{}/index.html".format(GEN_URL), "w") as outfile:
+		outfile.write(html)
 
 # Homepage HTML
 
@@ -102,7 +100,7 @@ def gen_homepage(data_list):
 		</div>
 	</div>
 	<div class="ui divider"></div>
-	
+
 </div>
 
 <div class="ui container">
@@ -123,12 +121,12 @@ def gen_homepage(data_list):
 						$this->load->view('components/project_preview',['project'=>$project]);
 
 						print("<br>");
-					} 
+					}
 					?>
 				</div>
 			</div>
 		</div>
-		
+
 	</div>
 </div>
 
