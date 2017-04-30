@@ -1,6 +1,6 @@
 @Sojourner Truth
 @../img/8.png
-@asdfads
+@Achieving a Public Image Through Photography
 
 @
 # Sojourner Truth: Achieving a Public Image Through Photography
