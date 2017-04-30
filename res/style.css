@@ -5,6 +5,13 @@ body {
 	background: #ffffff;
 }
 
+.article-img {
+	min-width: 10px;
+	min-height: 300px;
+	background-position: center top;
+    background-size: cover;
+}
+
 .text.container {
 	position: relative;
 	top: 100px;

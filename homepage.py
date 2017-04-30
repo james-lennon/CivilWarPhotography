@@ -38,7 +38,7 @@ def article_link(data):
   return """
 <div class="ui card project-card" href="{}">
   <div class="image">
-    <img src="{}">
+    <img src="" class="article-img" style="background-image: url('{}')">
   </div>
   <div class="content">
     <div class="header">{}</div>
