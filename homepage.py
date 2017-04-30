@@ -49,6 +49,21 @@ def article_link(data):
 </div>
 """.format(data['image'], data['title'], data['category'])
 
+def grid(links):
+	return """<div class="ui container">
+
+	<div class="ui center aligned grid">
+		<div class="row">
+			<div class="column">
+				<div class="ui three stackable link cards">
+					{}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+""".format(links)
+
 # background: http://civilwarsaga.com/wp-content/uploads/2011/08/Civil-War-Photographers-2.jpg
 
 def gen_homepage(data_list):
@@ -57,7 +72,7 @@ def gen_homepage(data_list):
 		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
 
 	links = "\n".join(map(article_link, data_list))
-	html  = header() + markdown2.markdown(links) +  footer()
+	html  = header() + grid(links) +  footer()
 
 	# write to file
 	with open("{}/index.html".format(GEN_URL), "w") as outfile:
@@ -106,13 +121,6 @@ def gen_homepage(data_list):
 <div class="ui container">
 
 	<div class="ui center aligned grid">
-		<div class="row">
-			<? if(isset($admin) && $admin): ?>
-				<a class="ui black button" href="<?= base_url() ?>admin/edit_project">
-					<i class="plus icon"></i> Add Project
-				</a>
-			<? endif; ?>
-		</div>
 		<div class="row">
 			<div class="column">
 				<div class="ui three stackable link cards">
