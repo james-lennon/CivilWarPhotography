@@ -1,7 +1,7 @@
-import markdown2
 from util import *
+import markdown2
 
-def header(data=None, title=None):
+def header():
 	return """
 <html>
 <head>
@@ -11,7 +11,7 @@ def header(data=None, title=None):
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <!-- Site Properities -->
-  <title>{}</title>
+  <title>Civil War Photography</title>
 
   <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700" rel="stylesheet" type="text/css">
   <link rel="stylesheet" type="text/css" href="../semantic/dist/semantic.css">
@@ -25,9 +25,9 @@ def header(data=None, title=None):
 </head>
 <body>
 <div class='ui text container'>
-""".format(title if title else data['title'])
+"""
 
-def footer(data=None):
+def footer():
 	return """
 </div>
 </body>
@@ -35,13 +35,17 @@ def footer(data=None):
 """
 
 
-def gen_page(data):
-	
-	# Generate HTML
-	article  = markdown2.markdown(data["content"])
-	pagename = get_pagename(data['title'])
-	html     = header(data) + article + footer(data)
+def gen_homepage(data_list):
 
-	with open("{}/{}".format(GEN_URL, pagename), "w") as outfile:
+	def link(data):
+		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
+
+	links = "\n".join(map(link, data_list))
+	html  = header() + markdown2.markdown(links) +  footer()
+
+	# write to file
+	with open("{}/index.html".format(GEN_URL), "w") as outfile:
 		outfile.write(html)
+
+
 

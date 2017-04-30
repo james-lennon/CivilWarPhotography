@@ -3,20 +3,10 @@
 import markdown2
 import os
 import articlepage
+import homepage
 from util import *
 
 METADATA = ["title", "category", "content"]
-
-# ### Generating HTML
-
-# def gen_page(data):
-	
-# 	# Generate HTML
-# 	html = markdown2.markdown(data["content"])
-# 	pagename = get_pagename(data['title'])
-# 	with open("{}/{}".format(GEN_URL, pagename), "w") as outfile:
-# 		outfile.write(html)
-
 
 ### Loading from data files
 
@@ -55,7 +45,7 @@ def build(directory):
 	results = map(inflate, paths)
 
 	# generate home page
-	articlepage.gen_homepage(results)
+	homepage.gen_homepage(results)
 
 	# generate pages
 	map(articlepage.gen_page, results)
