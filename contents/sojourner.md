@@ -9,7 +9,7 @@ Sojourner Truth was an abolitionist who advocated for woman's rights, universal 
 Sojourner truth was both black and a woman, a person with the least amount of influence in 19th century America. Photography was the medium through which she was able to give herself a voice.  Her photographs signal self-possession: demonstrating the fact that she is her own person and cannot be owned by another person. In this sense, she used her portraits to resist the all-to-real horrors of slavery. 
 
 
->Like other bourgeois portraits, Truth's cartes de visite and cabinet cards are strongly marked by a bourgeois ideal evoked through setting and props. 
+>Like other bourgeois portraits, Truth's *cartes de visite* and cabinet cards are strongly marked by a bourgeois ideal evoked through setting and props. 
 (“The ‘Green-Backs of Civilization’”, 132)
 
 
