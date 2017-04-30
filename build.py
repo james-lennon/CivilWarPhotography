@@ -6,7 +6,7 @@ import articlepage
 import homepage
 from util import *
 
-METADATA = ["title", "category", "content"]
+METADATA = ["title", "image", "category", "content"]
 
 ### Loading from data files
 
@@ -25,6 +25,9 @@ def inflate(path):
 	# Construct metadata dict
 	data = {k : v.strip().decode("utf-8").encode("ascii", "ignore")
 		for k, v in zip(METADATA, parts)}
+
+	print data.keys()
+	print METADATA
 
 	return data
 
