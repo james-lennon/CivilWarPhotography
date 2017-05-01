@@ -39,6 +39,10 @@ blockquote p {
 	color: gray;
 }
 
+.left.aligned {
+	text-align: left !important;
+}
+
 .article-img {
 	min-width: 10px;
 	min-height: 300px;
