@@ -1,5 +1,5 @@
 @ Black Soldiers
-@ (image yet to get)
+@ ../img/19.jpg
 @ Attaining Social Upliftment Through Photographic Representation
 @
 
