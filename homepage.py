@@ -68,7 +68,7 @@ def grid(links):
 
 def gen_intro():
 	return """
-<h1 id="title_header">
+<h1 id="title-header">
 	Civil War Photography
 </h1>
 <p align="left" class="indented">

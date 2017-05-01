@@ -26,6 +26,10 @@ body {
 	text-indent: 50px;
 }
 
+#title-header {
+	padding-bottom: 1cm;
+}
+
 h1, h2, h3, h4, h5, h6, p, li {
 	font-weight: normal;
 	font-family: Georgia;
