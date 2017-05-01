@@ -3,7 +3,7 @@
 @ Attaining Social Upliftment Through Photographic Representation
 @
 
-# Black Soldiers
+# Black Soldiers in the Civil War
 
 When the war first began, Lincoln did not consider the employment of freed black soldiers for the union army. Lincoln was focused on preserving the union at all cost, including keeping border states from seceeding. Frederick Douglass held a much more radical point of view, believing that black troops needed to be mobilized, emancipation needed to be enacted, and the fugitive slave law repealed immediately. Of course, Douglass was right. After two years of brutal war, Lincoln passed the Second Confiscation and Militia Act of July 17, 1862, which authorized the president “to employ as many persons of African descent as he may deem necessary and proper for the suppression of this rebellion."
 
