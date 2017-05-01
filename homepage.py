@@ -24,6 +24,7 @@ def header():
   <script src="../res/script.js"></script>
 </head>
 <body>
+<img id="image-header" style="background-image: url('../img/12.jpg')"></img>
 <div class='ui text container'>
 """
 

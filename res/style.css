@@ -30,6 +30,15 @@ body {
 	padding-bottom: 1cm;
 }
 
+#image-header {
+	margin-left: 0px;
+	margin-right: 0px;
+	background-position: center top;
+    background-size: cover;
+	min-width: 927px;
+	min-height: 300px;
+}
+
 h1, h2, h3, h4, h5, h6, p, li {
 	font-weight: normal;
 	font-family: Georgia;
