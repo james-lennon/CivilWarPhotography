@@ -24,7 +24,9 @@ def header():
   <script src="../res/script.js"></script>
 </head>
 <body>
-<img id="image-header" style="background-image: url('../img/12.jpg')"></img>
+<img id="image-header" style="background-image: url('../img/12.jpg')">
+	
+</img>
 <div class='ui text container'>
 """
 
@@ -72,6 +74,7 @@ def intro():
 <h1 id="title-header">
 	Civil War Photography
 </h1>
+<hr>
 <p align="left" class="indented">
 	This website explores the influence of
 	photography in the Civil War period, and the ways which photography was able to
