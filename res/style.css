@@ -39,6 +39,10 @@ blockquote p {
 	color: gray;
 }
 
+.fluid {
+	width: 100%;
+}
+
 .article-img {
 	min-width: 10px;
 	min-height: 300px;
