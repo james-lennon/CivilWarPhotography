@@ -6,5 +6,11 @@ $(document).ready(function() {
     	window.location = page_url
     });
 
+	$("h1").hide();
+    $("p").hide();
+
+    $("h1").transition("fade up", '500ms');
+    $("p").delay(500).transition('fade up', '500ms');
+
 });
 
