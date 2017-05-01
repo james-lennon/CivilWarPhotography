@@ -34,5 +34,5 @@ Ever aware of the importance of photography in creating a public image, Lincoln 
 
 
 #### Sources 
-- Harris, John M. "'Truthful as the Record of Heaven': The Battle of Antietam and the Birth of Photojournalism." Southern Cultures, vol. 19, no. 3, 2013, pp. 79–94.
+- Harris, John M. "'Truthful as the Record of Heaven': The Battle of Antietam and the Birth of Photojournalism." *Southern Cultures*, vol. 19, no. 3, 2013, pp. 79–94.
 - "The Civil War: The Birth of Photojournalism." CBS News. CBS Interactive, 08 July 2013. Web. 30 Apr. 2017.
