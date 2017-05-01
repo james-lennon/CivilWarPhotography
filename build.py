@@ -26,9 +26,6 @@ def inflate(path):
 	data = {k : v.strip().decode("utf-8").encode("ascii", "ignore")
 		for k, v in zip(METADATA, parts)}
 
-	print data.keys()
-	print METADATA
-
 	return data
 
 
@@ -40,6 +37,8 @@ def build(directory):
 	if not os.path.exists(GEN_URL):
 		os.makedirs(GEN_URL)
 
+	print "Loading files..."
+
 	# Load contents from directory
 	paths = os.listdir(directory)
 	paths = filter(lambda f: f.endswith(".md"), paths)
@@ -47,13 +46,15 @@ def build(directory):
 
 	results = map(inflate, paths)
 
+	print "Generating pages..."
+
 	# generate home page
 	homepage.gen_homepage(results)
 
 	# generate pages
 	map(articlepage.gen_page, results)
 
-	print results
+	print "[ Build Succeeded ]"
 
 
 if __name__ == '__main__':
