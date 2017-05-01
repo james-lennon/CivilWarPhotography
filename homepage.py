@@ -66,13 +66,32 @@ def grid(links):
 
 # background: http://civilwarsaga.com/wp-content/uploads/2011/08/Civil-War-Photographers-2.jpg
 
+def gen_intro():
+	return """
+<h1 id="title_header">
+	Civil War Photography
+</h1>
+<p align="left" class="indented">
+	This website explores the influence of
+	photography in the Civil War period, and the ways which photography was able to
+	give social autonomy to the marginalized. Before photography, artists had a lot
+	of influence as to how public figures were represented. The advent of the
+	daguerreotype provided a more realistic and honest way to portray people and
+	events. Frederick Douglass marveled at the extreme detail of the daguerreotype:
+	"The dullest vision can see and comprehend at a glance the full effect of a
+	point which may have taxed the wit and skill of the artist many hours, and
+	days." The ability of the photograph to capture extreme detail with relative
+	ease sparked radical changes for image portrayal and the ability for many to
+	have a voice.
+</p>"""
+
 def gen_homepage(data_list):
 
 	def link(data):
 		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
 
 	links = "\n".join(map(article_link, data_list))
-	html  = header() + grid(links) +  footer()
+	html  = header() + gen_intro() + grid(links) +  footer()
 
 	# write to file
 	with open("{}/index.html".format(GEN_URL), "w") as outfile:

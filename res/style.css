@@ -22,6 +22,10 @@ body {
 	padding-right: 30px;
 }
 
+.indented {
+	text-indent: 50px;
+}
+
 h1, h2, h3, h4, h5, h6, p, li {
 	font-weight: normal;
 	font-family: Georgia;
