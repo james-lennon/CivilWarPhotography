@@ -138,9 +138,6 @@ def authors():
 
 def gen_homepage(data_list):
 
-	def link(data):
-		return "[{}]({})\n".format(data['title'], get_pagename(data['title']))
-
 	links = "\n".join(map(article_link, data_list))
 	html  = header() + intro() + grid(links) + authors() + footer()
 

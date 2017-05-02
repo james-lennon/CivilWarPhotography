@@ -44,7 +44,7 @@ def build(directory):
 	paths = filter(lambda f: f.endswith(".md"), paths)
 	paths = map(lambda f: os.path.join(directory, f), paths)
 
-	results = map(inflate, paths)
+	results = sorted(map(inflate, paths), key=lambda e: e['title'], reverse=True)
 
 	print "Generating pages..."
 
