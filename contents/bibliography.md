@@ -1,9 +1,12 @@
 @Bibliography
 @../img/20.jpg
-@Chicken Nuggets are Delicious and Amazing
+@&nbsp;
 @
 
 # Bibliography
+
+***
+
 - Richards, Eliza. "Death's Surprise, Stamped Visible: Emily Dickinson, Oliver Wendell Holmes, and Civil War Photography." Amerikastudien / American Studies, vol. 54, no. 1, 2009, pp. 13–33., www.jstor.org/stable/41158410.
 - Daukantas, Patricia. "Photography in the American Civil War." Optics and Photonics News, vol. 23, no. 6, 2012, pp. 24–29.
 - Frederick Douglass, "Pictures and Progress: An Address Delivered in Bos- ton, Massachusetts, on 3 December 1861," in Frederick Douglass Papers, Volume  ree, ed. Blassingame, 458.
