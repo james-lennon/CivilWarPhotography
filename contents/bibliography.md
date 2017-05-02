@@ -4,7 +4,7 @@
 @
 
 # Bibliography
-- Richards, Eliza. "‘Death's Surprise, Stamped Visible’: Emily Dickinson, Oliver Wendell Holmes, and Civil War Photography." Amerikastudien / American Studies, vol. 54, no. 1, 2009, pp. 13–33., www.jstor.org/stable/41158410.
+- Richards, Eliza. "Death's Surprise, Stamped Visible: Emily Dickinson, Oliver Wendell Holmes, and Civil War Photography." Amerikastudien / American Studies, vol. 54, no. 1, 2009, pp. 13–33., www.jstor.org/stable/41158410.
 - Daukantas, Patricia. "Photography in the American Civil War." Optics and Photonics News, vol. 23, no. 6, 2012, pp. 24–29.
 - Frederick Douglass, "Pictures and Progress: An Address Delivered in Bos- ton, Massachusetts, on 3 December 1861," in Frederick Douglass Papers, Volume  ree, ed. Blassingame, 458.
 - Faisst, Julia. Cultures of Emancipation: Photography, Race, and Modern American Literature. Heidelburg: Unversitatsverlag, 2012. “Degrees of Exposure: Frederick Douglass, Daguerreotypes, and Representations of Freedom". Philologie im Netz, Supplement 5 (2012): 72-93.
