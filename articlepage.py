@@ -27,8 +27,8 @@ def header(data=None, title=None):
 <a href="index.html">
 <div class="left aligned">
   <button id="home-button" class="ui labeled icon button">
-    <i class="home icon"></i>
-    Home
+    <i class="left arrow icon"></i>
+    Back
   </button>
 </div>
 </a>

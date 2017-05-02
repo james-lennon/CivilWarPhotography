@@ -31,6 +31,6 @@ In some of the most powerful displays of death in the Civil War, photographer Al
 These photographs of death and battle scenes seem oddly calm and still to the modern eye.  This is mostly as a result of the bulky and fragile equipment used for photography during the war; the unwieldy cameras and long exposure made it impossible to capture any battle action, so photographers instead took photographs of the morbid aftermath of these battles.  It was also common practice to move the bodies after a battle, using the dead as props to convey the photographer's macabre images ("Guest Editors' Introduction: Photography at War," 1).
 
 #### Sources
-- Richards, Eliza. "‘Death's Surprise, Stamped Visible’: Emily Dickinson, Oliver Wendell Holmes, and Civil War Photography." Amerikastudien / American Studies, vol. 54, no. 1, 2009, pp. 13–33., www.jstor.org/stable/41158410.
-- Daukantas, Patricia. "Photography in the American Civil War." Optics and Photonics News, vol. 23, no. 6, 2012, pp. 24–29.
-- Frederick Douglass, "Pictures and Progress: An Address Delivered in Bos- ton, Massachusetts, on 3 December 1861," in Frederick Douglass Papers, Volume  ree, ed. Blassingame, 458.
+- Richards, Eliza. "‘Death's Surprise, Stamped Visible’: Emily Dickinson, Oliver Wendell Holmes, and Civil War Photography." *Amerikastudien / American Studies*, vol. 54, no. 1, 2009, pp. 13–33., www.jstor.org/stable/41158410.
+- Daukantas, Patricia. "Photography in the American Civil War." *Optics and Photonics News*, vol. 23, no. 6, 2012, pp. 24–29.
+- Frederick Douglass, "Pictures and Progress: An Address Delivered in Bos- ton, Massachusetts, on 3 December 1861," in *Frederick Douglass Papers*, Volume three, ed. Blassingame, 458.

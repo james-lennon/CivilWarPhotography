@@ -81,6 +81,10 @@ blockquote p {
 	left: 20px;
 }
 
+.stuck {
+	position: fixed !important;
+}
+
 #title-header {
 	/*position: absolute;*/
 	/*left: 0;*/

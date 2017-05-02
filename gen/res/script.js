@@ -10,8 +10,6 @@ $(document).ready(function() {
 
 	var viewed = false;
 
-	$("#articles-grid").appear();
-
 	$.each($(".project-card"), function(key, value) {
 		$(value).hide();
 	});
@@ -35,11 +33,9 @@ $(document).ready(function() {
     $("h1").transition("fade up", '500ms');
     $("p").delay(500).transition('fade up', '500ms');
 
-    $('#home-button')
-	  .sticky({
-	    context: 'h1'
-	  })
-	;
+    if ($(window).width() > 1100) {
+    	$("#home-button").addClass("stuck");
+    }
 
 
 });
