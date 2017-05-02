@@ -18,10 +18,10 @@ Sojourner truth was both black and a woman, a person with the least amount of in
 
 
 >Like other bourgeois portraits, Truth's *cartes de visite* and cabinet cards are strongly marked by a bourgeois ideal evoked through setting and props.
-(“The ‘Green-Backs of Civilization’”, 132)
+(“The ‘Green-Backs of Civilization'”, 132)
 
 
-Her portraits mainly consisted of plain backgrounds with ordinary, domestic props such as yarn and knitting needles.  It’s possible that she choose to represent herself this way in order to push back against the racist stereotypes of the day, showing her civility that some assumed was not possible for African Americans.  It’s also possible that this was an attempt to relate to middle-class americans who would have the power to reform that she lacked.  ("The 'Green-Backs of Civilization'", 132).  Sojourner Truth's use of photography in her portraits exemplifies the power of photography to give individuals a public image, not only the rich and powerful.  She was able to use these photographs to shape and use her public image to make a send a message to the American middle class.
+Her portraits mainly consisted of plain backgrounds with ordinary, domestic props such as yarn and knitting needles.  It's possible that she choose to represent herself this way in order to push back against the racist stereotypes of the day, showing her civility that some assumed was not possible for African Americans.  It's also possible that this was an attempt to relate to middle-class americans who would have the power to reform that she lacked.  ("The 'Green-Backs of Civilization'", 132).  Sojourner Truth's use of photography in her portraits exemplifies the power of photography to give individuals a public image, not only the rich and powerful.  She was able to use these photographs to shape and use her public image to make a send a message to the American middle class.
 
 
 
