@@ -53,7 +53,13 @@ def article_link(data):
 """.format(get_pagename(data['title']), data['image'], data['title'], data['category'])
 
 def grid(links):
-	return """<div class="ui container">
+	return """
+<br><br>
+<div>
+	<h2>Articles</h3>
+</div>
+<hr>
+<div class="ui container">
 
 	<div class="ui center aligned grid">
 		<div class="row">
