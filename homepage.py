@@ -61,7 +61,6 @@ def grid(links):
 </div>
 <hr>
 <div class="ui container">
-
 	<div class="ui center aligned grid" id="articles-grid">
 		<div class="row">
 			<div class="column">
