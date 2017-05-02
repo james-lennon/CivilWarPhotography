@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
 
 	$(".project-card").click(function() {
@@ -9,10 +8,24 @@ $(document).ready(function() {
 
 	/* Homepage animations */
 
+	var viewed = false;
+
+	$("#articles-grid").appear();
+
 	$.each($(".project-card"), function(key, value) {
 		$(value).hide();
-		$(value).delay(key * 100).fadeIn();
 	});
+
+	$(document.body).on('appear', function(){
+		if (!viewed) {
+			viewed = true;
+			$.each($(".project-card"), function(key, value) {
+				$(value).delay(key * 100 + 500).fadeIn();
+			});
+		}
+	});
+
+	
 
 	/* Article animations */
 
