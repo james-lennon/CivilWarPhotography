@@ -48,6 +48,10 @@ blockquote p {
 	text-align: left !important;
 }
 
+.centered.cards {
+	justify-content: center;
+}
+
 .article-img {
 	min-width: 10px;
 	min-height: 300px;

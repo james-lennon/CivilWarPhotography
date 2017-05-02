@@ -103,7 +103,7 @@ def authors():
 	<h2>Authors</h2>
 </div>
 <hr>
-<div class="ui cards">
+<div class="ui stackable centered cards">
   <div class="ui centered card">
     <div class="content">
       <img class="left floated small ui image" src="https://canvas.harvard.edu/images/thumbnails/2560992/PZlJ48Kh2nBfS5DlkuiCqWE83Z1rBXz0iMsFM1W4">
@@ -133,6 +133,7 @@ def authors():
     </div>
   </div>
 </div>
+<br><br>
 """
 
 def gen_homepage(data_list):
