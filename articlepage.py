@@ -21,6 +21,7 @@ def header(data=None, title=None):
   <script src="./semantic/dist/semantic.min.js"></script>
 
   <link rel="stylesheet" type="text/css" href="./res/style.css">
+  <script src="./res/appear.js"></script>
   <script src="./res/script.js"></script>
 </head>
 <body>
