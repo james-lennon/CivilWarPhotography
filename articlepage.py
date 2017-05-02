@@ -24,6 +24,12 @@ def header(data=None, title=None):
   <script src="../res/script.js"></script>
 </head>
 <body>
+<div class="left aligned">
+  <button id="home-button" class="ui labeled icon button">
+    <i class="home icon"></i>
+    Home
+  </button>
+</div>
 <div class="ui text container">
 <div class='ui center aligned grid'>
 <div class='row'>

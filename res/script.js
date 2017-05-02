@@ -35,6 +35,11 @@ $(document).ready(function() {
     $("h1").transition("fade up", '500ms');
     $("p").delay(500).transition('fade up', '500ms');
 
+    $('#home-button')
+	  .sticky({
+	    context: 'h1'
+	  })
+	;
 
 
 });
