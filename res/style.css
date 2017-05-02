@@ -49,7 +49,9 @@ blockquote p {
 }
 
 .centered.cards {
-	justify-content: center;
+	max-width: 608px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .article-img {
