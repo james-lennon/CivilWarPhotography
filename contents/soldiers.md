@@ -1,5 +1,5 @@
 @ Black Soldiers
-@ ../img/19.jpg
+@ ./img/19.jpg
 @ Attaining Social Upliftment Through Photographic Representation
 @
 
@@ -9,7 +9,7 @@
 
 When the war first began, Lincoln did not consider the employment of freed black soldiers for the union army. Lincoln was focused on preserving the union at all cost, including keeping border states from seceeding. Frederick Douglass held a much more radical point of view, believing that black troops needed to be mobilized, emancipation needed to be enacted, and the fugitive slave law repealed immediately. Of course, Douglass was right. After two years of brutal war, Lincoln passed the Second Confiscation and Militia Act of July 17, 1862, which authorized the president “to employ as many persons of African descent as he may deem necessary and proper for the suppression of this rebellion."
 
-<img src="../img/18.jpg" class="ui large right floated image transition visible"></img>
+<img src="./img/18.jpg" class="ui large right floated image transition visible"></img>
 
 Though blacks could now join union ranks, their social status still affected their experience as soldiers: "Black soldiers served in segregated units under white officers, received unequal pay, were often assigned the most menial labor, and went into battle with the knowledge that Confederate troops would offer them no quarter in defeat" (Lyons 3). Though blacks had to deal with these inequalities during the war, their participation as soldiers was often enough to raise their spirits and social recognition--and photography played an important role in this process. For, photography served as a medium for representing the transformation of former slaves to well polished soldiers. Photographs of black soldiers aided in fighting stereotypes and racist caricatures brought against them by society.
 

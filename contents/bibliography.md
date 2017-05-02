@@ -1,5 +1,5 @@
 @Bibliography
-@../img/20.jpg
+@./img/20.jpg
 @&nbsp;
 @
 

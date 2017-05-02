@@ -14,18 +14,18 @@ def header():
   <title>Civil War Photography</title>
 
   <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" type="text/css" href="../semantic/dist/semantic.css">
+  <link rel="stylesheet" type="text/css" href="./semantic/dist/semantic.css">
 
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.js"></script>
-  <script src="../semantic/dist/semantic.js"></script>
+  <script src="./semantic/dist/semantic.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="../res/style.css">
-  <script src="../res/appear.js"></script>
-  <script src="../res/script.js"></script>
+  <link rel="stylesheet" type="text/css" href="./res/style.css">
+  <script src="./res/appear.js"></script>
+  <script src="./res/script.js"></script>
 </head>
 <body>
-<img id="image-header" style="background-image: url('../img/12.jpg')">
+<img id="image-header" style="background-image: url('./img/12.jpg')">
 
 </img>
 <div class='ui text container'>
@@ -106,7 +106,7 @@ def authors():
 <div class="ui stackable centered cards">
   <div class="ui left aligned card">
     <div class="content">
-      <img class="left floated medium ui image" src="../img/collin.png">
+      <img class="left floated medium ui image" src="./img/collin.png">
       <div class="header">
         Collin Price
       </div>

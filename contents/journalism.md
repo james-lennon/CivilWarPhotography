@@ -1,5 +1,5 @@
 @The Birth of Photojournalism
-@../img/13.png
+@./img/13.png
 @How the war turned photography from an art into an enterprise
 
 @
@@ -10,9 +10,9 @@
 <div class='ui one column center aligned grid'>
 	<div class="column">
 		<div class="ui centered medium images">
-			<img src="../img/16.png">
+			<img src="./img/16.png">
 			</img>
-			<img src="../img/17.png">
+			<img src="./img/17.png">
 			</img>
 		</div>
 	</div>
@@ -24,7 +24,7 @@ Pictured on the left is Alexander Gardner's "Sharpshooter's Last Sleep," and on 
 
 The war allowed photography to become a lucrative undertaking, as viewers at home were eager to see real images of the war they heard so much about in newspapers.  The market for photographs exploded with the start of the Civil War, as soldiers headed off to battle wanted their image to be taken before going to war ("Truthful as the Record of Heaven," 83) . This allowed photography to become a legitimate job, as the lucrative prospect of taking photographs and selling them to soldiers became more widespread.  As the war carried on, photographers were sent to the battles to capture the aftermath.  Mathew Brady and Alexander Gardner gained fame through this practice, and they both claimed the credit for coming up with the idea of sending photographers to battlefields.  After his election, Lincoln himself helped equip Mathew Brady’s studio with additional cameras and equipment to be better prepared to take photographs of the Union soldiers ("Truthful as the Record of Heaven," 84).  
 
-<img src="../img/14.png" class="ui medium right floated image transition visible">
+<img src="./img/14.png" class="ui medium right floated image transition visible">
 </img>
 
 
