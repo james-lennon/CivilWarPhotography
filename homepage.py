@@ -54,13 +54,12 @@ def article_link(data):
 
 def grid(links):
 	return """
-<br><br>
+<br>
 <div>
-	<h2>Articles</h3>
+	<h2>Articles</h2>
 </div>
 <hr>
 <div class="ui container">
-
 	<div class="ui center aligned grid">
 		<div class="row">
 			<div class="column">
@@ -97,7 +96,11 @@ def intro():
 
 def authors():
 	return """
-<div class="fluid right aligned">
+<br>
+<div>
+	<h2>Authors</h2>
+</div>
+<hr>
 <div class="ui cards">
   <div class="card">
     <div class="content">
@@ -127,7 +130,6 @@ def authors():
       </div>
     </div>
   </div>
-</div>
 </div>
 """
 
