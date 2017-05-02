@@ -26,7 +26,7 @@ def header():
 </head>
 <body>
 <img id="image-header" style="background-image: url('../img/12.jpg')">
-	
+
 </img>
 <div class='ui text container'>
 """
@@ -55,9 +55,9 @@ def article_link(data):
 
 def grid(links):
 	return """
-<br><br>
+<br>
 <div>
-	<h2>Articles</h3>
+	<h2>Articles</h2>
 </div>
 <hr>
 <div class="ui container">
@@ -98,7 +98,12 @@ def intro():
 
 def authors():
 	return """
-<div class="ui fluid cards">
+<br>
+<div>
+	<h2>Authors</h2>
+</div>
+<hr>
+<div class="ui cards">
   <div class="card">
     <div class="content">
       <img class="left floated small ui image" src="https://canvas.harvard.edu/images/thumbnails/2560992/PZlJ48Kh2nBfS5DlkuiCqWE83Z1rBXz0iMsFM1W4">
@@ -127,7 +132,8 @@ def authors():
       </div>
     </div>
   </div>
-</div>"""
+</div>
+"""
 
 def gen_homepage(data_list):
 

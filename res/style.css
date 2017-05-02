@@ -39,6 +39,11 @@ blockquote p {
 	color: gray;
 }
 
+
+.fluid {
+	width: 100%;
+}
+
 .left.aligned {
 	text-align: left !important;
 }
