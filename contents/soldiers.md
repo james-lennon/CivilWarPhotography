@@ -15,7 +15,7 @@ Though blacks could now join union ranks, their social status still affected the
 
 In *Pictures and Progress*, Maurice Wallace states "whereas the terms *black* and *man* could hardly create a politically meaningful syntax together before emancipation, the black soldier portrait envisaged the possibility of a spectacular new grammar and social logic" (Wallace 247). This "new grammer and social logic" brought upon by the image of the black soldier is similar to Frederick Douglass' idea of photography bringing in a new order. Images of black soldiers provided a sort of social upliftment, making them more official. Wallace uses the juxtaposition of an image of the same man, Hubbard Pryor, as a slave and as a soldier to demonstrate the transition of social order. The two images are shown above. The first image of Hubbard is when he had recently escaped from slavery while the second image is of Hubbard after enlisting into the army. The change of clothing from his rags of slavery to the finely pressed army uniform represent Hubbards' change of social status. Hubbard's pose also changes: at first he is hunched over and sitting down, while as a soldier he stands erect, arms straight, in a more put-together manner. This transformation demonstrates not only the social uplift of this former slave, but it also hints toward the fact that this more "civilized" version of Hubbard was within him all along.
 
-### Sources
+#### Sources
 - Lyons, Maura. “Landscape Imagery in Popular Representations of African American Soldiers during the Civil War.” Nineteenth-Century Art Worldwide, Vol. 15, No. 3 (Autumn 2016).
 - Wallace, Maurice. Pictures and Progress. Duke University Press Books.
 

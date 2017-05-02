@@ -20,8 +20,8 @@ Concurrently, Douglass saw photography as the ideal way for a minority to form a
 
 On the left, Douglass stares defiantly into the camera, demanding an acknowledgment of his humanity. Douglass uses this photograph as a way to demonstrate, factually, a strong yet eloquent presence. On the right, rather than looking straight into the camera he looks away, giving the sense that something else has caught his attention. Douglass' clothes are more crisp and organized, giving himself a more official, put together look.
 
-### Sources
+#### Sources
 - Wallace, Maurice. *Pictures and Progress*. Duke University Press Books.
 - Faisst, Julia. Cultures of Emancipation: Photography, Race, and Modern American Literature. Heidelburg: Unversitatsverlag, 2012. “Degrees of Exposure: Frederick Douglass, Daguerreotypes, and Representations of Freedom". Philologie im Netz, Supplement 5 (2012): 72-93.
-- Frederick Douglass, “Pictures and Progress: An Address Delivered in Bos- ton, Massachusetts, on 3 December 1861," in  e Frederick Douglass Papers, Volume  ree, ed. Blassingame, 458.
+- Frederick Douglass, “Pictures and Progress: An Address Delivered in Bos- ton, Massachusetts, on 3 December 1861," in Frederick Douglass Papers, Volume  ree, ed. Blassingame, 458.
 
