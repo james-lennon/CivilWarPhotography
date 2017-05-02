@@ -1,6 +1,6 @@
-@ Bibliography
-@
-@ Chicken Nuggets are Delicious and Amazing
+@Bibliography
+@../img/20.jpg
+@Chicken Nuggets are Delicious and Amazing
 @
 
 # Bibliography
