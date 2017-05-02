@@ -10,6 +10,8 @@ $(document).ready(function() {
 
 	var viewed = false;
 
+	$("#articles-grid").appear();
+
 	$.each($(".project-card"), function(key, value) {
 		$(value).hide();
 	});
