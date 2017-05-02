@@ -102,7 +102,7 @@ def authors():
 </div>
 <hr>
 <div class="ui cards">
-  <div class="card">
+  <div class="ui centered card">
     <div class="content">
       <img class="left floated small ui image" src="https://canvas.harvard.edu/images/thumbnails/2560992/PZlJ48Kh2nBfS5DlkuiCqWE83Z1rBXz0iMsFM1W4">
       <div class="header">
@@ -116,7 +116,7 @@ def authors():
       </div>
     </div>
   </div>
-  <div class="card">
+  <div class="ui centered card">
     <div class="content">
       <img class="right floated medium ui image" src="https://scontent.fzty2-1.fna.fbcdn.net/v/t1.0-1/c222.27.634.634/s320x320/16114690_1774815029445973_1127067855622924014_n.jpg?oh=0d5bf32e4cfe9da4699a0b2e9f18b392&oe=5989EB5C">
       <div class="header">
