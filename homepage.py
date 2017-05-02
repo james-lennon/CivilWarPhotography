@@ -106,7 +106,7 @@ def authors():
 <div class="ui stackable centered cards">
   <div class="ui centered card">
     <div class="content">
-      <img class="left floated small ui image" src="https://canvas.harvard.edu/images/thumbnails/2560992/PZlJ48Kh2nBfS5DlkuiCqWE83Z1rBXz0iMsFM1W4">
+      <img class="left floated medium ui image" src="../img/collin.png">
       <div class="header">
         Collin Price
       </div>
