@@ -92,3 +92,10 @@ blockquote p {
 	min-width: 927px;
 	min-height: 300px;
 }
+
+#articles-grid {
+	min-height: 500px;
+}
+
+
+

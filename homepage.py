@@ -21,6 +21,7 @@ def header():
   <script src="../semantic/dist/semantic.js"></script>
 
   <link rel="stylesheet" type="text/css" href="../res/style.css">
+  <script src="../res/appear.js"></script>
   <script src="../res/script.js"></script>
 </head>
 <body>
@@ -60,7 +61,8 @@ def grid(links):
 </div>
 <hr>
 <div class="ui container">
-	<div class="ui center aligned grid">
+
+	<div class="ui center aligned grid" id="articles-grid">
 		<div class="row">
 			<div class="column">
 				<div class="ui three stackable link cards">
