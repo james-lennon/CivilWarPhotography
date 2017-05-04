@@ -18,6 +18,6 @@ In *Pictures and Progress*, Maurice Wallace states "whereas the terms *black* an
 
 
 #### Sources
-- Lyons, Maura. "Landscape Imagery in Popular Representations of African American Soldiers during the Civil War.” Nineteenth-Century Art Worldwide, Vol. 15, No. 3 (Autumn 2016).
-- Wallace, Maurice. Pictures and Progress. Duke University Press Books.
+- Lyons, Maura. "Landscape Imagery in Popular Representations of African American Soldiers during the Civil War.” *Nineteenth-Century Art Worldwide*, Vol. 15, No. 3 (Autumn 2016).
+- Wallace, Maurice. *Pictures and Progress*. Duke University Press Books.
 
