@@ -20,6 +20,10 @@ Concurrently, Douglass saw photography as the ideal way for a minority to form a
 
 On the left, Douglass stares defiantly into the camera, demanding an acknowledgment of his humanity. Douglass uses this photograph as a way to demonstrate, factually, a strong yet eloquent presence. On the right, rather than looking straight into the camera he looks away, giving the sense that something else has caught his attention. Douglass' clothes are more crisp and organized, giving himself a more official, put together look.
 
+#### Images
+- Frederick Douglass, ca. 1848 Courtesy Chester County Historical Society, West Chester, PA.
+- Samuel J. Miller, Frederick Douglass, 1847–52 © The Art Institute of Chicago.
+
 #### Sources
 - Wallace, Maurice. *Pictures and Progress*. Duke University Press Books.
 - Faisst, Julia. Cultures of Emancipation: Photography, Race, and Modern American Literature. Heidelburg: Unversitatsverlag, 2012. “Degrees of Exposure: Frederick Douglass, Daguerreotypes, and Representations of Freedom". Philologie im Netz, Supplement 5 (2012): 72-93.
