@@ -17,7 +17,7 @@
 - Zackodnik, Teresa. "The 'Green-Backs of Civilization': Sojourner Truth and Portrait Photography." *American Studies*, vol. 46, no. 2, 2005, pp. 117-143, www.jstor.org/stable/40643851.
 - Lyons, Maura. “Landscape Imagery in Popular Representations of African American Soldiers during the Civil War.” *Nineteenth-Century Art Worldwide*, Vol. 15, No. 3 (Autumn 2016).
 
-#### Home page images
+#### Home Page Images
 - Home screen image: Correspondents and photographers, pictured here at Bull Run in 1865, formed a vast machine that brought news and imagery to the public. (Image courtesy of National Portrait Gallery).
 - Bibliography image: letter from john r. hurley (private, 39th alabama infantry regiment) to his sisters -- written april 18, 1863 from shelbyville, tennessee -- virginia military institute.
 - Photography and Death image: Timothy H. O'Sullivan (American, about 1840 - 1882), Print by Alexander Gardner (American, born Scotland, 1821 - 1882). A Harvest of Death, Gettysburg, Pennsylvania, July 4, 1863, Albumen silver print.  The J. Paul Getty Museum, Los Angeles.
