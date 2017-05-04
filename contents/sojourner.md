@@ -23,7 +23,8 @@ Sojourner truth was both black and a woman, a person with the least amount of in
 
 Her portraits mainly consisted of plain backgrounds with ordinary, domestic props such as yarn and knitting needles.  It's possible that she choose to represent herself this way in order to push back against the racist stereotypes of the day, showing her civility that some assumed was not possible for African Americans.  It is also possible that this was an attempt to relate to middle-class Americans who would have the power to reform that she lacked.  ("The 'Green-Backs of Civilization'", 132).  Sojourner Truth's use of photography in her portraits exemplifies the power of photography to give individuals a public image, not only the rich and powerful.  She was able to use these photographs to shape and use her public image to make a send a message to the American middle class.
 
-
+#### Images
+- Sojourner Truth, 1864, carte de visite, photographer unknown. Photograph courtesy of National Portrait Gallery, Smithsonian Institute.
 
 #### Sources
 - Zackodnik, Teresa. "The 'Green-Backs of Civilization': Sojourner Truth and Portrait Photography." *American Studies*, vol. 46, no. 2, 2005, pp. 117-143, www.jstor.org/stable/40643851.
