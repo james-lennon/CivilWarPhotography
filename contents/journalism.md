@@ -1,6 +1,6 @@
 @The Birth of Photojournalism
 @./img/13.png
-@How the war turned photography from an art into an enterprise
+@How the War Turned Photography from an Art into an Enterprise
 
 @
 # The Birth of Photojournalism
