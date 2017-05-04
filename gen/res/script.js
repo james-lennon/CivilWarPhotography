@@ -25,7 +25,7 @@ $(document).ready(function() {
 		}
 	});
 
-	
+
 
 	/* Article animations */
 
@@ -34,8 +34,7 @@ $(document).ready(function() {
 
     $("h1").transition("fade up", '500ms');
     $("p").delay(500).transition('fade up', '500ms');
-    
-    console.log($(window).width());
+
     if ($(window).width() > 1100) {
     	$("#home-button").addClass("stuck");
     }
